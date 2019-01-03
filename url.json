@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "website": {
+    "url": "http://thestar.com.my"
+  },
+  "website2": [
+    {"url": "http://forum.lowyat.net", "title": "Lowyat" },
+    {"url": "http://thestar.com.my", "title": "The Star" }
+  ]
 }
