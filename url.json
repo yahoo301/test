@@ -1,22 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "website": {
     "url": "https://99f888.com"
   },
   "website2": [
-    {"url": "http://forum.lowyat.net", "title": "Lowyat" },
-    {"url": "http://thestar.com.my", "title": "The Star" }
+    {"url": "https://99f888.com", "title": "Website1" },
+    {"url": "https://99f888.com", "title": "Website2" }
   ],
-  "website3":"https://99f888.com"
+  "website3":"https://99f888.com",
+  "register_member":"https://99f888.com",
+  "bind_account":"https://99f888.com",
+  "check_in":"https://99f888.com",
+  "red_packet":"https://99f888.com",
+  "fortune_wheel":"https://99f888.com",
+  "golden_egg":"https://99f888.com",
+  "online_update":"https://99f888.com",
+  "online_competition":"https://99f888.com",
+  "promotion_hall":"https://99f888.com",
+  "promotion_activity":"https://99f888.com",
+  "fast_recharge":"https://99f888.com",
+  "online_service":"https://99f888.com",
+  "customer_hotline":"https://99f888.com"
 }
