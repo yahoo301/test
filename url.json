@@ -1,12 +1,5 @@
 {
-  "website": {
-    "url": "https://99f888.com"
-  },
-  "website2": [
-    {"url": "https://99f888.com", "title": "Website1" },
-    {"url": "https://99f888.com", "title": "Website2" }
-  ],
-  "website3":"https://99f888.com",
+  "website":"https://99f888.com",
   "register_member":"https://99f888.com",
   "bind_account":"https://99f888.com",
   "check_in":"https://99f888.com",
@@ -19,5 +12,12 @@
   "promotion_activity":"https://99f888.com",
   "fast_recharge":"https://99f888.com",
   "online_service":"https://99f888.com",
-  "customer_hotline":"https://99f888.com"
+  "customer_hotline":"https://99f888.com",
+  "website2": [
+    {"url": "https://99f888.com", "title": "Website1" },
+    {"url": "https://99f888.com", "title": "Website2" }
+  ],
+  "website3": {
+    "url": "https://99f888.com"
+  }
 }
