@@ -1,0 +1,668 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_menu": [
+      {
+        "ObjKey": 2,
+        "Name": "Popular",
+        "Games": "48126,48127,48128,48129,48130,48081,48105,48103,48001,48039,48085,48086,48016,48094,48084,48097,48021,48096,48111,48125,48075,48115,48043,48014,48064,48100,48052,48083,48042,48071,48093,48110,48002,48080,48005,48099,48003,48006,48114,48119",
+        "Num": 40
+      },
+      {
+        "ObjKey": 1,
+        "Name": "New Games",
+        "Games": "48126,48127,48128,48129,48130,48119,48120,48121,48122,48123,48124,48125,48112,48113,48114,48115,48116,48117,48118,48111",
+        "Num": 20
+      },
+      {
+        "ObjKey": 84,
+        "Name": "All Games",
+        "Games": "48126,48127,48128,48129,48130,48111,48094,48119,48084,48086,48081,48085,48075,48115,48036,48053,48041,48117,48118,48039,48097,48096,48113,48014,48105,48089,48025,48002,48061,48058,48120,48121,48122,48123,48124,48125,48112,48114,48116,48106,48107,48108,48109,48110,48099,48100,48101,48102,48103,48104,48091,48093,48092,48090,48082,48083,48087,48088,48042,48003,48004,48008,48011,48013,48015,48016,48017,48019,48021,48022,48023,48033,48034,48024,48035,48026,48027,48038,48028,48029,48030,48032,48037,48040,48043,48046,48047,48044,48048,48045,48051,48049,48052,48050,48054,48067,48071,48056,48057,48059,48060,48062,48063,48064,48065,48066,48068,48069,48070,48072,48073,48074,48076,48077,48078,48080,48007,48009,48001,48005,48006,48012,48079",
+        "Num": 123
+      },
+      {
+        "ObjKey": 3,
+        "Name": "Slots",
+        "Games": "48001,48002,48003,48004,48005,48006,48007,48008,48009,48011,48012,48013,48014,48015,48016,48017,48019,48021,48022,48023,48024,48025,48026,48027,48028,48029,48030,48032,48033,48034,48035,48036,48037,48038,48039,48040,48041,48042,48043,48044,48045,48046,48047,48048,48049,48050,48051,48052,48053,48054,48056,48057,48058,48059,48060,48061,48062,48063,48064,48065,48066,48067,48068,48069,48070,48071,48072,48073,48074,48075,48076,48077,48078,48079,48080,48081,48082,48083,48084,48085,48086,48087,48088,48089,48090,48091,48092,48093,48094,48096,48097,48099,48100,48101,48102,48103,48104,48105,48106,48107,48108,48109,48110,48111,48112,48113,48114,48115,48116,48117,48118,48120,48121,48122,48123,48124,48125,48126,48127,48128,48129,48130",
+        "Num": 122
+      },
+      {
+        "ObjKey": 85,
+        "Name": "Featured Games",
+        "Games": "48119",
+        "Num": 1
+      },
+      {
+        "ObjKey": 35,
+        "Name": "Favorites",
+        "Games": "",
+        "Num": 0
+      }
+    ],
+    "game_list": [
+      {
+        "GameType": "48001",
+        "AppName": "12 Animals",
+        "game_url": "/nj/forward_game.php?game_id=48001&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48002",
+        "AppName": "15 Golden Eggs",
+        "game_url": "/nj/forward_game.php?game_id=48002&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48003",
+        "AppName": "88 Wild Dragon",
+        "game_url": "/nj/forward_game.php?game_id=48003&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48004",
+        "AppName": "African Spirit",
+        "game_url": "/nj/forward_game.php?game_id=48004&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48005",
+        "AppName": "Christmas Charm",
+        "game_url": "/nj/forward_game.php?game_id=48005&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48006",
+        "AppName": "Crazy Gems",
+        "game_url": "/nj/forward_game.php?game_id=48006&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48007",
+        "AppName": "Diego Fortune",
+        "game_url": "/nj/forward_game.php?game_id=48007&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48008",
+        "AppName": "Fruiterra",
+        "game_url": "/nj/forward_game.php?game_id=48008&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48009",
+        "AppName": "Fruiterra Fortune",
+        "game_url": "/nj/forward_game.php?game_id=48009&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48011",
+        "AppName": "Fruity Wild",
+        "game_url": "/nj/forward_game.php?game_id=48011&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48012",
+        "AppName": "Fortune Multiplier",
+        "game_url": "/nj/forward_game.php?game_id=48012&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48013",
+        "AppName": "Gnomes' Gems",
+        "game_url": "/nj/forward_game.php?game_id=48013&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48014",
+        "AppName": "God's Temple",
+        "game_url": "/nj/forward_game.php?game_id=48014&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48015",
+        "AppName": "Halloween Witch",
+        "game_url": "/nj/forward_game.php?game_id=48015&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48016",
+        "AppName": "Happy Chinese New Year",
+        "game_url": "/nj/forward_game.php?game_id=48016&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48017",
+        "AppName": "Hell's Band",
+        "game_url": "/nj/forward_game.php?game_id=48017&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48019",
+        "AppName": "Kailash Mystery",
+        "game_url": "/nj/forward_game.php?game_id=48019&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48021",
+        "AppName": "Lucky Xmas",
+        "game_url": "/nj/forward_game.php?game_id=48021&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48022",
+        "AppName": "Nords War",
+        "game_url": "/nj/forward_game.php?game_id=48022&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48023",
+        "AppName": "Patrick's Pub",
+        "game_url": "/nj/forward_game.php?game_id=48023&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48024",
+        "AppName": "Poisoned Apple",
+        "game_url": "/nj/forward_game.php?game_id=48024&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48025",
+        "AppName": "Secret Of Nefertiti",
+        "game_url": "/nj/forward_game.php?game_id=48025&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48026",
+        "AppName": "Singles Day",
+        "game_url": "/nj/forward_game.php?game_id=48026&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48027",
+        "AppName": "The Witch",
+        "game_url": "/nj/forward_game.php?game_id=48027&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48028",
+        "AppName": "Thunder Zeus",
+        "game_url": "/nj/forward_game.php?game_id=48028&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48029",
+        "AppName": "Wild Galaxy",
+        "game_url": "/nj/forward_game.php?game_id=48029&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48030",
+        "AppName": "Zodiac",
+        "game_url": "/nj/forward_game.php?game_id=48030&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48032",
+        "AppName": "Art of the Heist",
+        "game_url": "/nj/forward_game.php?game_id=48032&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48033",
+        "AppName": "Attila",
+        "game_url": "/nj/forward_game.php?game_id=48033&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48034",
+        "AppName": "Banana Splash",
+        "game_url": "/nj/forward_game.php?game_id=48034&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48035",
+        "AppName": "Bananas Go Bahamas",
+        "game_url": "/nj/forward_game.php?game_id=48035&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48036",
+        "AppName": "Book of Ra",
+        "game_url": "/nj/forward_game.php?game_id=48036&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48037",
+        "AppName": "Bumper Crop",
+        "game_url": "/nj/forward_game.php?game_id=48037&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48038",
+        "AppName": "Columbus",
+        "game_url": "/nj/forward_game.php?game_id=48038&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48039",
+        "AppName": "Crystal Land",
+        "game_url": "/nj/forward_game.php?game_id=48039&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48040",
+        "AppName": "Dancing Dragon Spring Festival",
+        "game_url": "/nj/forward_game.php?game_id=48040&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48041",
+        "AppName": "Dolphin's Pearl",
+        "game_url": "/nj/forward_game.php?game_id=48041&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48042",
+        "AppName": "Fireworks Master",
+        "game_url": "/nj/forward_game.php?game_id=48042&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48043",
+        "AppName": "Fruits and Stars",
+        "game_url": "/nj/forward_game.php?game_id=48043&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48044",
+        "AppName": "Fruits and Stars: Holiday Edition",
+        "game_url": "/nj/forward_game.php?game_id=48044&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48045",
+        "AppName": "Fruits of the Nile",
+        "game_url": "/nj/forward_game.php?game_id=48045&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48046",
+        "AppName": "Gryphon's Gold",
+        "game_url": "/nj/forward_game.php?game_id=48046&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48047",
+        "AppName": "Hat Trick",
+        "game_url": "/nj/forward_game.php?game_id=48047&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48048",
+        "AppName": "Highroller",
+        "game_url": "/nj/forward_game.php?game_id=48048&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48049",
+        "AppName": "Just Jewels",
+        "game_url": "/nj/forward_game.php?game_id=48049&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48050",
+        "AppName": "King of Cards",
+        "game_url": "/nj/forward_game.php?game_id=48050&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48051",
+        "AppName": "Kingdom of the Sun: Golden Age",
+        "game_url": "/nj/forward_game.php?game_id=48051&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48052",
+        "AppName": "Legend of Cleopatra",
+        "game_url": "/nj/forward_game.php?game_id=48052&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48053",
+        "AppName": "Lucky Lady's Charm",
+        "game_url": "/nj/forward_game.php?game_id=48053&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48054",
+        "AppName": "Lucky Pirates",
+        "game_url": "/nj/forward_game.php?game_id=48054&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48056",
+        "AppName": "Marco Polo",
+        "game_url": "/nj/forward_game.php?game_id=48056&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48057",
+        "AppName": "Pharaoh's Gold ",
+        "game_url": "/nj/forward_game.php?game_id=48057&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48058",
+        "AppName": "Pharaoh's Gold II",
+        "game_url": "/nj/forward_game.php?game_id=48058&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48059",
+        "AppName": "Riches of India",
+        "game_url": "/nj/forward_game.php?game_id=48059&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48060",
+        "AppName": "Royal Treasures",
+        "game_url": "/nj/forward_game.php?game_id=48060&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48061",
+        "AppName": "Sharky",
+        "game_url": "/nj/forward_game.php?game_id=48061&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48062",
+        "AppName": "Silver Fox",
+        "game_url": "/nj/forward_game.php?game_id=48062&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48063",
+        "AppName": "The Bee Bop",
+        "game_url": "/nj/forward_game.php?game_id=48063&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48064",
+        "AppName": "The Euro Game",
+        "game_url": "/nj/forward_game.php?game_id=48064&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48065",
+        "AppName": "The Magic Flute",
+        "game_url": "/nj/forward_game.php?game_id=48065&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48066",
+        "AppName": "The Money Game",
+        "game_url": "/nj/forward_game.php?game_id=48066&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48067",
+        "AppName": "Thunder Reels",
+        "game_url": "/nj/forward_game.php?game_id=48067&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48068",
+        "AppName": "Treasure Jewels",
+        "game_url": "/nj/forward_game.php?game_id=48068&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48069",
+        "AppName": "Unicorn Magic",
+        "game_url": "/nj/forward_game.php?game_id=48069&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48070",
+        "AppName": "Venetian Carnival",
+        "game_url": "/nj/forward_game.php?game_id=48070&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48071",
+        "AppName": "Viking Gods: Thor and Loki",
+        "game_url": "/nj/forward_game.php?game_id=48071&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48072",
+        "AppName": "The Search for more Money",
+        "game_url": "/nj/forward_game.php?game_id=48072&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48073",
+        "AppName": "The Illusionist",
+        "game_url": "/nj/forward_game.php?game_id=48073&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48074",
+        "AppName": "Party ON",
+        "game_url": "/nj/forward_game.php?game_id=48074&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48075",
+        "AppName": "Goddess of the Moon",
+        "game_url": "/nj/forward_game.php?game_id=48075&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48076",
+        "AppName": "Roller Coaster",
+        "game_url": "/nj/forward_game.php?game_id=48076&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48077",
+        "AppName": "Olivers Bar",
+        "game_url": "/nj/forward_game.php?game_id=48077&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48078",
+        "AppName": "Diamond Trio",
+        "game_url": "/nj/forward_game.php?game_id=48078&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48079",
+        "AppName": "Magic Money",
+        "game_url": "/nj/forward_game.php?game_id=48079&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48080",
+        "AppName": "Chip Runner",
+        "game_url": "/nj/forward_game.php?game_id=48080&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48081",
+        "AppName": "God's Temple Deluxe",
+        "game_url": "/nj/forward_game.php?game_id=48081&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48082",
+        "AppName": "Age of Caesar",
+        "game_url": "/nj/forward_game.php?game_id=48082&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48083",
+        "AppName": "Secret of Nefertiti 2",
+        "game_url": "/nj/forward_game.php?game_id=48083&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48084",
+        "AppName": "88 Dragon",
+        "game_url": "/nj/forward_game.php?game_id=48084&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48085",
+        "AppName": "Star Gems",
+        "game_url": "/nj/forward_game.php?game_id=48085&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48086",
+        "AppName": "Viking's Gods Gold",
+        "game_url": "/nj/forward_game.php?game_id=48086&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48087",
+        "AppName": "Christmas Eve",
+        "game_url": "/nj/forward_game.php?game_id=48087&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48088",
+        "AppName": "Sky Way",
+        "game_url": "/nj/forward_game.php?game_id=48088&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48089",
+        "AppName": "Chinese Super League",
+        "game_url": "/nj/forward_game.php?game_id=48089&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48090",
+        "AppName": "40 Joker Staxx",
+        "game_url": "/nj/forward_game.php?game_id=48090&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48091",
+        "AppName": "Claws vs Paws",
+        "game_url": "/nj/forward_game.php?game_id=48091&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48092",
+        "AppName": "Draculas Family",
+        "game_url": "/nj/forward_game.php?game_id=48092&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48093",
+        "AppName": "Rise of Egypt",
+        "game_url": "/nj/forward_game.php?game_id=48093&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48094",
+        "AppName": "Shen Long Mi Bao",
+        "game_url": "/nj/forward_game.php?game_id=48094&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48096",
+        "AppName": "God of Wild Sea",
+        "game_url": "/nj/forward_game.php?game_id=48096&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48097",
+        "AppName": "Burning Wins",
+        "game_url": "/nj/forward_game.php?game_id=48097&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48099",
+        "AppName": "Joker Expand",
+        "game_url": "/nj/forward_game.php?game_id=48099&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48100",
+        "AppName": "Sevens & Fruits",
+        "game_url": "/nj/forward_game.php?game_id=48100&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48101",
+        "AppName": "Chicago Gangsters",
+        "game_url": "/nj/forward_game.php?game_id=48101&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48102",
+        "AppName": "Phoenix Fire",
+        "game_url": "/nj/forward_game.php?game_id=48102&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48103",
+        "AppName": "Super Burning Wins",
+        "game_url": "/nj/forward_game.php?game_id=48103&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48104",
+        "AppName": "Fruits & Jokers: 20 lines",
+        "game_url": "/nj/forward_game.php?game_id=48104&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48105",
+        "AppName": "Wild 888",
+        "game_url": "/nj/forward_game.php?game_id=48105&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48106",
+        "AppName": "Burlesque queen",
+        "game_url": "/nj/forward_game.php?game_id=48106&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48107",
+        "AppName": "Treasures of Tombs Hidden Gold",
+        "game_url": "/nj/forward_game.php?game_id=48107&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48108",
+        "AppName": "Joker Expand: 40 Lines",
+        "game_url": "/nj/forward_game.php?game_id=48108&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48109",
+        "AppName": "Book of Gold: Double Chance",
+        "game_url": "/nj/forward_game.php?game_id=48109&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48110",
+        "AppName": "Supreme Fortune",
+        "game_url": "/nj/forward_game.php?game_id=48110&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48111",
+        "AppName": "Book of Sun",
+        "game_url": "/nj/forward_game.php?game_id=48111&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48112",
+        "AppName": "Spellcraft",
+        "game_url": "/nj/forward_game.php?game_id=48112&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48113",
+        "AppName": "Wild Hunter",
+        "game_url": "/nj/forward_game.php?game_id=48113&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48114",
+        "AppName": "Fruits and Jokers 40",
+        "game_url": "/nj/forward_game.php?game_id=48114&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48115",
+        "AppName": "Dragons Treasure",
+        "game_url": "/nj/forward_game.php?game_id=48115&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48116",
+        "AppName": "Wild Warriors",
+        "game_url": "/nj/forward_game.php?game_id=48116&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48117",
+        "AppName": "Fortune God",
+        "game_url": "/nj/forward_game.php?game_id=48117&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48118",
+        "AppName": "Lucky Staxx 40",
+        "game_url": "/nj/forward_game.php?game_id=48118&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48119",
+        "AppName": "Crystal Crush",
+        "game_url": "/nj/forward_game.php?game_id=48119&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48120",
+        "AppName": "Clover Tales",
+        "game_url": "/nj/forward_game.php?game_id=48120&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48121",
+        "AppName": "Down the Pub",
+        "game_url": "/nj/forward_game.php?game_id=48121&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48122",
+        "AppName": "Gold Rush",
+        "game_url": "/nj/forward_game.php?game_id=48122&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48123",
+        "AppName": "Juice And Fruits",
+        "game_url": "/nj/forward_game.php?game_id=48123&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48124",
+        "AppName": "Odysseus",
+        "game_url": "/nj/forward_game.php?game_id=48124&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48125",
+        "AppName": "Fu Cai Shen",
+        "game_url": "/nj/forward_game.php?game_id=48125&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48126",
+        "AppName": "Eastern Delights",
+        "game_url": "/nj/forward_game.php?game_id=48126&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48127",
+        "AppName": "Joker Staxx：100 lines",
+        "game_url": "/nj/forward_game.php?game_id=48127&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48128",
+        "AppName": "Monkey Money",
+        "game_url": "/nj/forward_game.php?game_id=48128&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48129",
+        "AppName": "Mighty Africa",
+        "game_url": "/nj/forward_game.php?game_id=48129&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "48130",
+        "AppName": "Fruits & Clovers: 20 lines",
+        "game_url": "/nj/forward_game.php?game_id=48130&lang=<languageID>&html5=1&sid=<sessionID>"
+      }
+    ],
+    "trans_balance": "Dear member, please transfer credits to [BNG Casino] to activate the functions. Thanks you!",
+    "img_size": "_phone",
+    "event": {
+      "type": ""
+    },
+    "is_login": "Y"
+  }
+}
