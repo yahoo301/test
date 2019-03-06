@@ -1,0 +1,672 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_menu": [
+      {
+        "ObjKey": 2,
+        "Name": "Popular",
+        "Games": "20428,20495,20525,20628,20483,20504,20627,20625,20521,20486,20641,20662,20425,20408,20465,20656,20654,20607,20464,20548,20466,20663,20417,20630,20606,20524,20649,20664,20506,20642,20651,20655,20620,20657,20564,20560,20535,20503,20526,20406",
+        "Num": 40,
+        "Lower": []
+      },
+      {
+        "ObjKey": 1,
+        "Name": "New Games",
+        "Games": "20663,20664,20649,20651,20652,20653,20654,20655,20656,20657,20658,20659,20660,20661,20662,20335,20348,20637,20638,20639",
+        "Num": 20,
+        "Lower": []
+      },
+      {
+        "ObjKey": 84,
+        "Name": "All Games",
+        "Games": "20663,20664,20649,20651,20652,20653,20654,20656,20657,20658,20659,20660,20661,20662,20655,20525,20428,20483,20504,20521,20628,20495,20625,20627,20408,20641,20486,20425,20607,20464,20548,20417,20465,20466,20506,20524,20401,20404,20620,20630,20503,20409,20484,20606,20560,20642,20529,20406,20435,20621,20481,20637,20558,20614,20612,20457,20577,20500,20412,20557,20573,20475,20502,20522,20407,20329,20308,20516,20526,20405,20640,20644,20348,20482,20639,20596,20563,20535,20469,20421,20479,20474,20493,20317,20638,20414,20564,20530,20544,20636,20437,20645,20467,20471,20453,20583,20335,20441,20615,20556,20590,20433,20542,20531,20587,20470,20570,20458,20445,20508,20559,20643,20618,20593,20632,20608,20498,20631,20320,20331,20440,20332",
+        "Num": 122,
+        "Lower": []
+      },
+      {
+        "ObjKey": 81,
+        "Name": "Progressive Jackpot",
+        "Games": "20433,20437,20481,20577,20587,20457,20516,20573,20401,20466,20620,20524,20409,20406,20404,20408,20405,20407,20421,20458,20479,20493,20631,20632,20636,20471,20639,20641,20642,20644,20645,20649,20651,20659,20660,20661,20663,20664",
+        "Num": 38,
+        "Lower": []
+      },
+      {
+        "ObjKey": 3,
+        "Name": "Slots",
+        "Games": "20412,20417,20425,20428,20435,20440,20441,20464,20465,20469,20470,20474,20475,20482,20483,20484,20486,20495,20500,20502,20503,20504,20506,20521,20522,20525,20526,20529,20530,20535,20544,20548,20556,20557,20558,20559,20560,20563,20564,20570,20590,20596,20606,20607,20612,20614,20615,20621,20625,20627,20628,20630,20414,20445,20453,20467,20498,20508,20531,20542,20583,20593,20608,20618,20637,20638,20640,20643,20652,20653,20654,20655,20656,20657,20658,20662",
+        "Num": 76,
+        "Lower": []
+      },
+      {
+        "ObjKey": 5,
+        "Name": "Table Games",
+        "Games": "20308,20320,20317,20329,20331,20332,20335,20348",
+        "Num": 8,
+        "Lower": []
+      },
+      {
+        "ObjKey": 35,
+        "Name": "Favorites",
+        "Games": "",
+        "Num": 0,
+        "Lower": []
+      }
+    ],
+    "game_list": [
+      {
+        "GameType": "20308",
+        "AppName": "Baccarat",
+        "game_url": "/nj/forward_game_pt.php?game_id=20308&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20317",
+        "AppName": "Casino Hold 'Em",
+        "game_url": "/nj/forward_game_pt.php?game_id=20317&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20320",
+        "AppName": "Classic Roulette",
+        "game_url": "/nj/forward_game_pt.php?game_id=20320&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20329",
+        "AppName": "Perfect Blackjack Multihand 5",
+        "game_url": "/nj/forward_game_pt.php?game_id=20329&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20331",
+        "AppName": "Premium American Roulette",
+        "game_url": "/nj/forward_game_pt.php?game_id=20331&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20332",
+        "AppName": "Premium European Roulette",
+        "game_url": "/nj/forward_game_pt.php?game_id=20332&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20335",
+        "AppName": "Premium Roulette",
+        "game_url": "/nj/forward_game_pt.php?game_id=20335&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20348",
+        "AppName": "Blackjack",
+        "game_url": "/nj/forward_game_pt.php?game_id=20348&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20401",
+        "AppName": "Land of Gold",
+        "game_url": "/nj/forward_game_pt.php?game_id=20401&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20404",
+        "AppName": "Age of the Gods",
+        "game_url": "/nj/forward_game_pt.php?game_id=20404&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20405",
+        "AppName": "Age of the Gods : Fate Sisters",
+        "game_url": "/nj/forward_game_pt.php?game_id=20405&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20406",
+        "AppName": "Age of the Gods : Furious Four",
+        "game_url": "/nj/forward_game_pt.php?game_id=20406&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20407",
+        "AppName": "Age of the Gods : Goddess of Wisdom",
+        "game_url": "/nj/forward_game_pt.php?game_id=20407&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20408",
+        "AppName": "Age of the Gods : King of Olympus",
+        "game_url": "/nj/forward_game_pt.php?game_id=20408&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20409",
+        "AppName": "Age of the Gods : Prince of Olympus",
+        "game_url": "/nj/forward_game_pt.php?game_id=20409&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20412",
+        "AppName": "Amazon Wild",
+        "game_url": "/nj/forward_game_pt.php?game_id=20412&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20414",
+        "AppName": "Arctic Treasure",
+        "game_url": "/nj/forward_game_pt.php?game_id=20414&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20417",
+        "AppName": "Bai Shi",
+        "game_url": "/nj/forward_game_pt.php?game_id=20417&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20421",
+        "AppName": "Beach Life",
+        "game_url": "/nj/forward_game_pt.php?game_id=20421&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20425",
+        "AppName": "Bonus Bears",
+        "game_url": "/nj/forward_game_pt.php?game_id=20425&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20428",
+        "AppName": "Buffalo Blitz",
+        "game_url": "/nj/forward_game_pt.php?game_id=20428&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20433",
+        "AppName": "Cat In Vegas",
+        "game_url": "/nj/forward_game_pt.php?game_id=20433&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20435",
+        "AppName": "Chaoji 888",
+        "game_url": "/nj/forward_game_pt.php?game_id=20435&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20437",
+        "AppName": "Chests of Plenty",
+        "game_url": "/nj/forward_game_pt.php?game_id=20437&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20440",
+        "AppName": "Cops N' Bandits™",
+        "game_url": "/nj/forward_game_pt.php?game_id=20440&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20441",
+        "AppName": "Cowboys & Aliens",
+        "game_url": "/nj/forward_game_pt.php?game_id=20441&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20445",
+        "AppName": "Daring Dave & the Eye of Ra",
+        "game_url": "/nj/forward_game_pt.php?game_id=20445&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20453",
+        "AppName": "Dragon Kingdom",
+        "game_url": "/nj/forward_game_pt.php?game_id=20453&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20457",
+        "AppName": "Everybody's Jackpot",
+        "game_url": "/nj/forward_game_pt.php?game_id=20457&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20458",
+        "AppName": "Fairest of them All",
+        "game_url": "/nj/forward_game_pt.php?game_id=20458&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20464",
+        "AppName": "Fei Long Zai Tian",
+        "game_url": "/nj/forward_game_pt.php?game_id=20464&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20465",
+        "AppName": "Feng Kuang Ma Jiang",
+        "game_url": "/nj/forward_game_pt.php?game_id=20465&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20466",
+        "AppName": "Five Tiger Generals",
+        "game_url": "/nj/forward_game_pt.php?game_id=20466&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20467",
+        "AppName": "Football Carnival",
+        "game_url": "/nj/forward_game_pt.php?game_id=20467&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20469",
+        "AppName": "Football Rules",
+        "game_url": "/nj/forward_game_pt.php?game_id=20469&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20470",
+        "AppName": "Forest of Wonder",
+        "game_url": "/nj/forward_game_pt.php?game_id=20470&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20471",
+        "AppName": "Fortunate 5",
+        "game_url": "/nj/forward_game_pt.php?game_id=20471&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20474",
+        "AppName": "Fountain of Youth",
+        "game_url": "/nj/forward_game_pt.php?game_id=20474&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20475",
+        "AppName": "Fortunes of the Fox",
+        "game_url": "/nj/forward_game_pt.php?game_id=20475&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20479",
+        "AppName": "Fruit Mania",
+        "game_url": "/nj/forward_game_pt.php?game_id=20479&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20481",
+        "AppName": "Funky Fruits",
+        "game_url": "/nj/forward_game_pt.php?game_id=20481&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20482",
+        "AppName": "Funky Fruits Farm",
+        "game_url": "/nj/forward_game_pt.php?game_id=20482&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20483",
+        "AppName": "Funky Monkey",
+        "game_url": "/nj/forward_game_pt.php?game_id=20483&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20484",
+        "AppName": "Geisha Story",
+        "game_url": "/nj/forward_game_pt.php?game_id=20484&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20486",
+        "AppName": "Gem Queen",
+        "game_url": "/nj/forward_game_pt.php?game_id=20486&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20493",
+        "AppName": "Gold Rally",
+        "game_url": "/nj/forward_game_pt.php?game_id=20493&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20495",
+        "AppName": "Golden Tour",
+        "game_url": "/nj/forward_game_pt.php?game_id=20495&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20498",
+        "AppName": "Greatest Odyssey",
+        "game_url": "/nj/forward_game_pt.php?game_id=20498&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20500",
+        "AppName": "Halloween Fortune 2",
+        "game_url": "/nj/forward_game_pt.php?game_id=20500&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20502",
+        "AppName": "Haunted House",
+        "game_url": "/nj/forward_game_pt.php?game_id=20502&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20503",
+        "AppName": "Heart of The Jungle",
+        "game_url": "/nj/forward_game_pt.php?game_id=20503&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20504",
+        "AppName": "Highway Kings",
+        "game_url": "/nj/forward_game_pt.php?game_id=20504&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20506",
+        "AppName": "Hot Gems",
+        "game_url": "/nj/forward_game_pt.php?game_id=20506&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20508",
+        "AppName": "Ice run",
+        "game_url": "/nj/forward_game_pt.php?game_id=20508&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20516",
+        "AppName": "Jackpot Giant",
+        "game_url": "/nj/forward_game_pt.php?game_id=20516&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20521",
+        "AppName": "Jin Qian Wa",
+        "game_url": "/nj/forward_game_pt.php?game_id=20521&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20522",
+        "AppName": "Kong The Eighth Wonder of The World",
+        "game_url": "/nj/forward_game_pt.php?game_id=20522&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20524",
+        "AppName": "Liu Fu Shou",
+        "game_url": "/nj/forward_game_pt.php?game_id=20524&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20525",
+        "AppName": "Long Long Long",
+        "game_url": "/nj/forward_game_pt.php?game_id=20525&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20526",
+        "AppName": "Lotto Madness",
+        "game_url": "/nj/forward_game_pt.php?game_id=20526&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20529",
+        "AppName": "Magical Stacks",
+        "game_url": "/nj/forward_game_pt.php?game_id=20529&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20530",
+        "AppName": "Marilyn Monroe",
+        "game_url": "/nj/forward_game_pt.php?game_id=20530&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20531",
+        "AppName": "Miss Fortune",
+        "game_url": "/nj/forward_game_pt.php?game_id=20531&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20535",
+        "AppName": "Neptunes Kingdom",
+        "game_url": "/nj/forward_game_pt.php?game_id=20535&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20542",
+        "AppName": "Piggies and the Wolf",
+        "game_url": "/nj/forward_game_pt.php?game_id=20542&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20544",
+        "AppName": "Plenty O'Fortune",
+        "game_url": "/nj/forward_game_pt.php?game_id=20544&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20548",
+        "AppName": "Queen of Wands",
+        "game_url": "/nj/forward_game_pt.php?game_id=20548&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20556",
+        "AppName": "Samba Brazil",
+        "game_url": "/nj/forward_game_pt.php?game_id=20556&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20557",
+        "AppName": "Santa Surprise",
+        "game_url": "/nj/forward_game_pt.php?game_id=20557&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20558",
+        "AppName": "Secrets of the Amazon",
+        "game_url": "/nj/forward_game_pt.php?game_id=20558&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20559",
+        "AppName": "Sherlock Mystery",
+        "game_url": "/nj/forward_game_pt.php?game_id=20559&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20560",
+        "AppName": "Si Xiang",
+        "game_url": "/nj/forward_game_pt.php?game_id=20560&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20563",
+        "AppName": "Silver Bullet",
+        "game_url": "/nj/forward_game_pt.php?game_id=20563&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20564",
+        "AppName": "Sinbad's Golden Voyage",
+        "game_url": "/nj/forward_game_pt.php?game_id=20564&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20570",
+        "AppName": "Spud O'Reilly's Crops of Gold",
+        "game_url": "/nj/forward_game_pt.php?game_id=20570&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20573",
+        "AppName": "Streak of Luck",
+        "game_url": "/nj/forward_game_pt.php?game_id=20573&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20577",
+        "AppName": "Sweet Party",
+        "game_url": "/nj/forward_game_pt.php?game_id=20577&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20583",
+        "AppName": "The Discovery",
+        "game_url": "/nj/forward_game_pt.php?game_id=20583&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20587",
+        "AppName": "The Love Boat",
+        "game_url": "/nj/forward_game_pt.php?game_id=20587&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20590",
+        "AppName": "The Riches of Don Quixote",
+        "game_url": "/nj/forward_game_pt.php?game_id=20590&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20593",
+        "AppName": "The Three Musketeers and The Queen's Diamond™",
+        "game_url": "/nj/forward_game_pt.php?game_id=20593&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20596",
+        "AppName": "Top Gun",
+        "game_url": "/nj/forward_game_pt.php?game_id=20596&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20606",
+        "AppName": "Vacation Station",
+        "game_url": "/nj/forward_game_pt.php?game_id=20606&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20607",
+        "AppName": "Vacation Station Deluxe",
+        "game_url": "/nj/forward_game_pt.php?game_id=20607&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20608",
+        "AppName": "Vikingmania",
+        "game_url": "/nj/forward_game_pt.php?game_id=20608&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20612",
+        "AppName": "White King",
+        "game_url": "/nj/forward_game_pt.php?game_id=20612&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20614",
+        "AppName": "Wild Gambler",
+        "game_url": "/nj/forward_game_pt.php?game_id=20614&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20615",
+        "AppName": "Wild Gambler 2: Arctic Adventure",
+        "game_url": "/nj/forward_game_pt.php?game_id=20615&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20618",
+        "AppName": "Wings of Gold",
+        "game_url": "/nj/forward_game_pt.php?game_id=20618&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20620",
+        "AppName": "Wu Lu Cai Shen",
+        "game_url": "/nj/forward_game_pt.php?game_id=20620&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20621",
+        "AppName": "Wu Long",
+        "game_url": "/nj/forward_game_pt.php?game_id=20621&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20625",
+        "AppName": "Zhao Cai Jin Bao",
+        "game_url": "/nj/forward_game_pt.php?game_id=20625&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20627",
+        "AppName": "Zhao Cai Tong Zi",
+        "game_url": "/nj/forward_game_pt.php?game_id=20627&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20628",
+        "AppName": "Triple Monkey",
+        "game_url": "/nj/forward_game_pt.php?game_id=20628&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20630",
+        "AppName": "Lie Yan Zuan Shi",
+        "game_url": "/nj/forward_game_pt.php?game_id=20630&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20631",
+        "AppName": "Frankie Dettori's Magic Seven Jackpot",
+        "game_url": "/nj/forward_game_pt.php?game_id=20631&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20632",
+        "AppName": "Adventures in Wonderland Deluxe",
+        "game_url": "/nj/forward_game_pt.php?game_id=20632&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20636",
+        "AppName": "Time for a Deal",
+        "game_url": "/nj/forward_game_pt.php?game_id=20636&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20637",
+        "AppName": "Cat Queen",
+        "game_url": "/nj/forward_game_pt.php?game_id=20637&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20638",
+        "AppName": "Desert Treasure",
+        "game_url": "/nj/forward_game_pt.php?game_id=20638&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20639",
+        "AppName": "Esmeralda",
+        "game_url": "/nj/forward_game_pt.php?game_id=20639&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20640",
+        "AppName": "Irish Luck",
+        "game_url": "/nj/forward_game_pt.php?game_id=20640&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20641",
+        "AppName": "Nian Nian You Yu",
+        "game_url": "/nj/forward_game_pt.php?game_id=20641&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20642",
+        "AppName": "Purple Hot",
+        "game_url": "/nj/forward_game_pt.php?game_id=20642&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20643",
+        "AppName": "Rome and Glory",
+        "game_url": "/nj/forward_game_pt.php?game_id=20643&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20644",
+        "AppName": "Thai Temple",
+        "game_url": "/nj/forward_game_pt.php?game_id=20644&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20645",
+        "AppName": "The Glass Slipper",
+        "game_url": "/nj/forward_game_pt.php?game_id=20645&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20649",
+        "AppName": "Age of the Gods : God of Storms",
+        "game_url": "/nj/forward_game_pt.php?game_id=20649&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20651",
+        "AppName": "Dragon Jackpot Roulette",
+        "game_url": "/nj/forward_game_pt.php?game_id=20651&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20652",
+        "AppName": "Heart of the Frontier",
+        "game_url": "/nj/forward_game_pt.php?game_id=20652&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20653",
+        "AppName": "Ice Cave",
+        "game_url": "/nj/forward_game_pt.php?game_id=20653&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20654",
+        "AppName": "Legacy Of The Wild",
+        "game_url": "/nj/forward_game_pt.php?game_id=20654&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20655",
+        "AppName": "Dragon Champions",
+        "game_url": "/nj/forward_game_pt.php?game_id=20655&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20656",
+        "AppName": "Epic Ape",
+        "game_url": "/nj/forward_game_pt.php?game_id=20656&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20657",
+        "AppName": "Gaelic Luck",
+        "game_url": "/nj/forward_game_pt.php?game_id=20657&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20658",
+        "AppName": "Jungle Giants",
+        "game_url": "/nj/forward_game_pt.php?game_id=20658&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20659",
+        "AppName": "Pharaoh’s Treasure Deluxe",
+        "game_url": "/nj/forward_game_pt.php?game_id=20659&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20660",
+        "AppName": "Pixel Samurai",
+        "game_url": "/nj/forward_game_pt.php?game_id=20660&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20661",
+        "AppName": "Xuan Pu Lian Huan",
+        "game_url": "/nj/forward_game_pt.php?game_id=20661&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20662",
+        "AppName": "Yun Cong Long",
+        "game_url": "/nj/forward_game_pt.php?game_id=20662&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20663",
+        "AppName": "Funky Monkey Jackpot",
+        "game_url": "/nj/forward_game_pt.php?game_id=20663&lang=<languageID>&sid=<sessionID>&html5=1"
+      },
+      {
+        "GameType": "20664",
+        "AppName": "Great Blue Jackpot",
+        "game_url": "/nj/forward_game_pt.php?game_id=20664&lang=<languageID>&sid=<sessionID>&html5=1"
+      }
+    ],
+    "trans_balance": "Dear member, please transfer credits to [PT Casino] to activate the functions. Thanks you!",
+    "is_login": "Y"
+  }
+}
