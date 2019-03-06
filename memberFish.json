@@ -1,0 +1,93 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "is_login": "Y",
+    "game_list": [
+      {
+        "GameType": "30599",
+        "game_url": "/ipl/app/member/game/Game.php?Client=2&GameType=30599&lang=us&HALLID=3819999&VerID=4316860bed795c6efd5859865ab5de8a",
+        "AppName": "Fish Hunter",
+        "GameClass": "html5"
+      },
+      {
+        "GameType": "38001",
+        "game_url": "/elibom/mobileIndex.php?gameType=38001",
+        "AppName": "Fishing Master",
+        "GameClass": "BB"
+      },
+      {
+        "GameType": "39064",
+        "game_url": "/nj/forward_game.php?game_id=39064&sid=<sessionID>&lang=<languageID>",
+        "AppName": "CaiShenFinshing",
+        "GameClass": "Jdb"
+      },
+      {
+        "GameType": "28066",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=28066&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Sea Raider",
+        "GameClass": "Gns"
+      },
+      {
+        "GameType": "39047",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39047&sid=<sessionID>&lang=<languageID>",
+        "AppName": "Dragon Fishing",
+        "GameClass": "Jdb"
+      },
+      {
+        "GameType": "39049",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39049&sid=<sessionID>&lang=<languageID>",
+        "AppName": "Dragon Fishing II",
+        "GameClass": "Jdb"
+      },
+      {
+        "GameType": "40116",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=40116&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fish Hunter",
+        "GameClass": "Ag40"
+      },
+      {
+        "GameType": "41021",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=41021&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fishing Hunter",
+        "GameClass": "Mw"
+      },
+      {
+        "GameType": "46002",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46002&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fu Fish ",
+        "GameClass": "SW"
+      },
+      {
+        "GameType": "46060",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46060&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fu Qi Shui Guo",
+        "GameClass": "SW"
+      },
+      {
+        "GameType": "46146",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46146&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fu Farm",
+        "GameClass": "SW"
+      },
+      {
+        "GameType": "44120",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=44120&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Fishing God",
+        "GameClass": "Sg"
+      },
+      {
+        "GameType": "56001",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=56001&sid=<sessionID>&lang=<languageID>&html5=1",
+        "AppName": "Ocean King 3-Monster Awaken",
+        "GameClass": "Aw"
+      }
+    ],
+    "img_size": "_phone",
+    "event": {
+      "type": ""
+    },
+    "trans_balance": "Dear customer, please do the transaction to activate the functions. Thank you!"
+  }
+}
