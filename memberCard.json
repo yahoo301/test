@@ -1,0 +1,89 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_list": [
+      {
+        "id": 49830,
+        "name": "Banker Niu-Niu",
+        "link": "/nj/forward_game.php?game_id=49830&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49220,
+        "name": "Golden Flower",
+        "link": "/nj/forward_game.php?game_id=49220&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49600,
+        "name": "The 21 point",
+        "link": "/nj/forward_game.php?game_id=49600&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49720,
+        "name": "Two-Eight",
+        "link": "/nj/forward_game.php?game_id=49720&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49860,
+        "name": "San-Gong",
+        "link": "/nj/forward_game.php?game_id=49860&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49620,
+        "name": "Texas Hold'em Poker",
+        "link": "/nj/forward_game.php?game_id=49620&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49730,
+        "name": "Chinese Dominoes-Banker Pai Gow",
+        "link": "/nj/forward_game.php?game_id=49730&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49920,
+        "name": "Forest Party",
+        "link": "/nj/forward_game.php?game_id=49920&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49870,
+        "name": "Casino Niu-Niu",
+        "link": "/nj/forward_game.php?game_id=49870&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49930,
+        "name": "Niu–niu for thousands person",
+        "link": "/nj/forward_game.php?game_id=49930&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49630,
+        "name": "Thirteen Water",
+        "link": "/nj/forward_game.php?game_id=49630&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49610,
+        "name": "Fight the Landlord",
+        "link": "/nj/forward_game.php?game_id=49610&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      },
+      {
+        "id": 49230,
+        "name": "Speed Flower",
+        "link": "/nj/forward_game.php?game_id=49230&lang=<languageID>&sid=<sessionID>&html5=1",
+        "isHall": false
+      }
+    ],
+    "trans_balance": "Dear member, please transfer credits to [KY Gaming] to activate the functions. Thanks you!",
+    "is_login": "Y"
+  }
+}
