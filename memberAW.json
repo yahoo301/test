@@ -1,0 +1,139 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_menu": [
+      {
+        "ObjKey": 2,
+        "Name": "Popular",
+        "Games": "56001,56015,56014,56021,56011,56005,56009,56002,56003,56007,56004,56018,56017,56019,56010,56020,56008,56006",
+        "Num": 18
+      },
+      {
+        "ObjKey": 1,
+        "Name": "New Games",
+        "Games": "56021,56014,56015,56017,56018,56019,56020,56002,56003,56004,56005,56006,56007,56008,56009,56010,56011,56001",
+        "Num": 18
+      },
+      {
+        "ObjKey": 84,
+        "Name": "All Games",
+        "Games": "56001,56002,56003,56004,56005,56006,56007,56008,56009,56010,56011,56014,56015,56017,56018,56019,56020,56021",
+        "Num": 18
+      },
+      {
+        "ObjKey": 91,
+        "Name": "Fishing Joy",
+        "Games": "56001",
+        "Num": 1
+      },
+      {
+        "ObjKey": 3,
+        "Name": "Slots",
+        "Games": "56002,56003,56004,56005,56006,56007,56008,56009,56010,56011,56014,56015,56017,56018,56019,56020,56021",
+        "Num": 17
+      },
+      {
+        "ObjKey": 35,
+        "Name": "Favorites",
+        "Games": "",
+        "Num": 0
+      }
+    ],
+    "game_list": [
+      {
+        "GameType": "56001",
+        "AppName": "Ocean King 3-Monster Awaken",
+        "game_url": "/nj/forward_game.php?game_id=56001&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56002",
+        "AppName": "Phoenix Legend",
+        "game_url": "/nj/forward_game.php?game_id=56002&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56003",
+        "AppName": "Hello Doggy",
+        "game_url": "/nj/forward_game.php?game_id=56003&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56004",
+        "AppName": "Captain Jack",
+        "game_url": "/nj/forward_game.php?game_id=56004&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56005",
+        "AppName": "ZEUS",
+        "game_url": "/nj/forward_game.php?game_id=56005&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56006",
+        "AppName": "Wild Wedding",
+        "game_url": "/nj/forward_game.php?game_id=56006&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56007",
+        "AppName": "Golden Tiger",
+        "game_url": "/nj/forward_game.php?game_id=56007&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56008",
+        "AppName": "Sherlock Holmes",
+        "game_url": "/nj/forward_game.php?game_id=56008&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56009",
+        "AppName": "Monkey King",
+        "game_url": "/nj/forward_game.php?game_id=56009&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56010",
+        "AppName": "Fortune Panda",
+        "game_url": "/nj/forward_game.php?game_id=56010&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56011",
+        "AppName": "Dolphin's Night",
+        "game_url": "/nj/forward_game.php?game_id=56011&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56014",
+        "AppName": "Fortune Tree",
+        "game_url": "/nj/forward_game.php?game_id=56014&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56015",
+        "AppName": "GodOfWealth",
+        "game_url": "/nj/forward_game.php?game_id=56015&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56017",
+        "AppName": "Highroad King",
+        "game_url": "/nj/forward_game.php?game_id=56017&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56018",
+        "AppName": "Grand Blue",
+        "game_url": "/nj/forward_game.php?game_id=56018&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56019",
+        "AppName": "Dragons Legend",
+        "game_url": "/nj/forward_game.php?game_id=56019&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56020",
+        "AppName": "Money Mage",
+        "game_url": "/nj/forward_game.php?game_id=56020&lang=<languageID>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "56021",
+        "AppName": "Tons Of Money",
+        "game_url": "/nj/forward_game.php?game_id=56021&lang=<languageID>&html5=1&sid=<sessionID>"
+      }
+    ],
+    "trans_balance": "Dear member, please transfer credits to [AW Casino] to activate the functions. Thanks you!",
+    "is_login": "Y"
+  }
+}
