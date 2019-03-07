@@ -8,79 +8,79 @@
       {
         "GameType": "30599",
         "game_url": "/ipl/app/member/game/Game.php?Client=2&GameType=30599&lang=us&HALLID=3819999&VerID=4316860bed795c6efd5859865ab5de8a",
-        "AppName": "Fish Hunter",
+        "AppName": "捕鱼达人",
         "GameClass": "html5"
       },
       {
         "GameType": "38001",
         "game_url": "/elibom/mobileIndex.php?gameType=38001",
-        "AppName": "Fishing Master",
+        "AppName": "捕鱼大师",
         "GameClass": "BB"
       },
       {
         "GameType": "39064",
         "game_url": "/nj/forward_game.php?game_id=39064&sid=<sessionID>&lang=<languageID>",
-        "AppName": "CaiShenFinshing",
+        "AppName": "財神捕魚",
         "GameClass": "Jdb"
       },
       {
         "GameType": "28066",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=28066&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Sea Raider",
+        "AppName": "寻宝捕鱼王",
         "GameClass": "Gns"
       },
       {
         "GameType": "39047",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39047&sid=<sessionID>&lang=<languageID>",
-        "AppName": "Dragon Fishing",
+        "AppName": "龙王捕鱼",
         "GameClass": "Jdb"
       },
       {
         "GameType": "39049",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39049&sid=<sessionID>&lang=<languageID>",
-        "AppName": "Dragon Fishing II",
+        "AppName": "龙王捕鱼2",
         "GameClass": "Jdb"
       },
       {
         "GameType": "40116",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=40116&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fish Hunter",
+        "AppName": "捕鱼王",
         "GameClass": "Ag40"
       },
       {
         "GameType": "41021",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=41021&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fishing Hunter",
+        "AppName": "千炮捕鱼",
         "GameClass": "Mw"
       },
       {
         "GameType": "46002",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46002&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fu Fish ",
+        "AppName": "捕鱼多福",
         "GameClass": "SW"
       },
       {
         "GameType": "46060",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46060&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fu Qi Shui Guo",
+        "AppName": "福气水果",
         "GameClass": "SW"
       },
       {
         "GameType": "46146",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46146&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fu Farm",
+        "AppName": "好运农场",
         "GameClass": "SW"
       },
       {
         "GameType": "44120",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=44120&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Fishing God",
+        "AppName": "捕鱼天王",
         "GameClass": "Sg"
       },
       {
         "GameType": "56001",
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=56001&sid=<sessionID>&lang=<languageID>&html5=1",
-        "AppName": "Ocean King 3-Monster Awaken",
+        "AppName": "海王3_神兽传",
         "GameClass": "Aw"
       }
     ],
