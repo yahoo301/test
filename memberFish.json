@@ -19,67 +19,67 @@
       },
       {
         "GameType": "39064",
-        "game_url": "/nj/forward_game.php?game_id=39064&sid=<sessionID>&lang=<languageID>",
+        "game_url": "/nj/forward_game.php?game_id=39064&sid=<sessionID>&lang=<languageCode>",
         "AppName": "財神捕魚",
         "GameClass": "Jdb"
       },
       {
         "GameType": "28066",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=28066&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=28066&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "寻宝捕鱼王",
         "GameClass": "Gns"
       },
       {
         "GameType": "39047",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39047&sid=<sessionID>&lang=<languageID>",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39047&sid=<sessionID>&lang=<languageCode>",
         "AppName": "龙王捕鱼",
         "GameClass": "Jdb"
       },
       {
         "GameType": "39049",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39049&sid=<sessionID>&lang=<languageID>",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39049&sid=<sessionID>&lang=<languageCode>",
         "AppName": "龙王捕鱼2",
         "GameClass": "Jdb"
       },
       {
         "GameType": "40116",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=40116&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=40116&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "捕鱼王",
         "GameClass": "Ag40"
       },
       {
         "GameType": "41021",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=41021&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=41021&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "千炮捕鱼",
         "GameClass": "Mw"
       },
       {
         "GameType": "46002",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46002&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46002&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "捕鱼多福",
         "GameClass": "SW"
       },
       {
         "GameType": "46060",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46060&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46060&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "福气水果",
         "GameClass": "SW"
       },
       {
         "GameType": "46146",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46146&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=46146&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "好运农场",
         "GameClass": "SW"
       },
       {
         "GameType": "44120",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=44120&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=44120&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "捕鱼天王",
         "GameClass": "Sg"
       },
       {
         "GameType": "56001",
-        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=56001&sid=<sessionID>&lang=<languageID>&html5=1",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=56001&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "海王3_神兽传",
         "GameClass": "Aw"
       }
