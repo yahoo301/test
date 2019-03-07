@@ -7,7 +7,7 @@
     "game_list": [
       {
         "GameType": "30599",
-        "game_url": "/ipl/app/member/game/Game.php?Client=2&GameType=30599&lang=us&HALLID=3819999&VerID=4316860bed795c6efd5859865ab5de8a",
+        "game_url": "/ipl/app/member/game/Game.php?Client=2&GameType=30599&lang=<languageCode>&HALLID=3819999&VerID=4316860bed795c6efd5859865ab5de8a",
         "AppName": "捕鱼达人",
         "GameClass": "html5"
       },
