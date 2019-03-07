@@ -1,1 +1,178 @@
-
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_menu": [
+      {
+        "ObjKey": 2,
+        "Name": "热门",
+        "Games": "41025,41021,41024,41023,41022,41027,41039,41035,41033,41041,41037,41028,41026,41040,41034,41032,41029,41038,41030,41036,41031",
+        "Num": 21,
+        "Lower": []
+      },
+      {
+        "ObjKey": 1,
+        "Name": "最新",
+        "Games": "41041,41039,41040,41031,41038,41037,41035,41036,41034,41033,41032,41030,41028,41029,41026,41027,41025,41024,41022,41023",
+        "Num": 20,
+        "Lower": []
+      },
+      {
+        "ObjKey": 84,
+        "Name": "全部",
+        "Games": "41041,41039,41040,41031,41038,41037,41035,41036,41034,41033,41032,41030,41029,41028,41027,41026,41025,41024,41023,41022,41021",
+        "Num": 21,
+        "Lower": []
+      },
+      {
+        "ObjKey": 91,
+        "Name": "捕鱼机",
+        "Games": "41021",
+        "Num": 1,
+        "Lower": []
+      },
+      {
+        "ObjKey": 3,
+        "Name": "老虎机",
+        "Games": "41022,41023,41026,41027,41028,41032,41033,41035,41037,41038,41039,41041",
+        "Num": 12,
+        "Lower": []
+      },
+      {
+        "ObjKey": 82,
+        "Name": "大型机台",
+        "Games": "41025,41029,41036,41040",
+        "Num": 4,
+        "Lower": []
+      },
+      {
+        "ObjKey": 5,
+        "Name": "桌上游戏",
+        "Games": "41024,41030,41034,41031",
+        "Num": 4,
+        "Lower": []
+      },
+      {
+        "ObjKey": 35,
+        "Name": "我的最爱",
+        "Games": "",
+        "Num": 0,
+        "Lower": []
+      }
+    ],
+    "game_list": [
+      {
+        "GameType": "41021",
+        "AppName": "千炮捕鱼(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41021&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41022",
+        "AppName": "水浒传(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41022&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41023",
+        "AppName": "水浒英雄(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41023&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41024",
+        "AppName": "百家乐(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41024&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41025",
+        "AppName": "森林舞会(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41025&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41026",
+        "AppName": "太极(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41026&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41027",
+        "AppName": "黄金777(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41027&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41028",
+        "AppName": "双龙抢珠(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41028&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41029",
+        "AppName": "好运5扑克(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41029&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41030",
+        "AppName": "皇家轮盘(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41030&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41031",
+        "AppName": "楚汉德州(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41031&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41032",
+        "AppName": "舞狮报喜(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41032&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41033",
+        "AppName": "天龙虎地(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41033&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41034",
+        "AppName": "百乐牛牛(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41034&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41035",
+        "AppName": "洪福齐天(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41035&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41036",
+        "AppName": "超级斗地主(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41036&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41037",
+        "AppName": "五龙争霸(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41037&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41038",
+        "AppName": "明星97(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41038&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41039",
+        "AppName": "五路财神(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41039&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41040",
+        "AppName": "蜜糖甜心(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41040&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "41041",
+        "AppName": "魔豆(H5)",
+        "game_url": "/nj/forward_game.php?game_id=41041&lang=<languageCode>&html5=1&sid=<sessionID>"
+      }
+    ],
+    "trans_balance": "尊敬的客户您好，烦请进行额度转移至[大满贯电子] 以激活各项功能，谢谢您！",
+    "img_size": "_phone",
+    "event": {
+      "type": ""
+    },
+    "is_login": "Y"
+  }
+}
