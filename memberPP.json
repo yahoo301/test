@@ -6,35 +6,35 @@
     "game_menu": [
       {
         "ObjKey": 2,
-        "Name": "Popular",
+        "Name": "热门",
         "Games": "37131,37088,37017,37127,37123,37094,37075,37076,37101,37057,37129,37004,37047,37041,37025,37103,37130,37098,37104,37078,37126,37093,37067,37074,37079,37020,37128,37097,37100,37053,37096,37073,37124,37048,37108,37081,37063,37065,37050,37109",
         "Num": 40,
         "Lower": []
       },
       {
         "ObjKey": 1,
-        "Name": "New Games",
+        "Name": "最新",
         "Games": "37131,37129,37130,37128,37127,37126,37125,37123,37124,37122,37120,37110,37111,37112,37113,37114,37115,37116,37117,37118",
         "Num": 20,
         "Lower": []
       },
       {
         "ObjKey": 84,
-        "Name": "All Games",
+        "Name": "全部",
         "Games": "37131,37129,37130,37128,37127,37126,37125,37123,37124,37122,37017,37088,37057,37108,37075,37110,37047,37101,37097,37094,37095,37093,37103,37120,37004,37074,37100,37104,37041,37025,37098,37048,37078,37096,37076,37079,37073,37114,37116,37118,37117,37113,37112,37119,37115,37111,37109,37107,37102,37081,37003,37099,37106,37105,37027,37053,37071,37020,37067,37043,37082,37063,37024,37002,37029,37060,37022,37091,37009,37084,37038,37011,37018,37065,37092,37010,37023,37077,37021,37087,37045,37068,37051,37042,37034,37061,37062,37064,37089,37085,37026,37055,37086,37035,37070,37052,37019,37090,37058,37050,37066,37013,37015,37083,37080",
         "Num": 105,
         "Lower": []
       },
       {
         "ObjKey": 3,
-        "Name": "Slots",
+        "Name": "老虎机",
         "Games": "37002,37003,37004,37009,37011,37015,37017,37020,37021,37022,37023,37024,37025,37027,37029,37034,37038,37041,37042,37043,37047,37048,37050,37051,37052,37053,37055,37057,37058,37060,37061,37062,37063,37064,37065,37066,37067,37068,37070,37071,37073,37074,37075,37076,37010,37013,37018,37019,37026,37035,37045,37077,37078,37079,37080,37081,37082,37083,37084,37085,37086,37087,37088,37089,37090,37091,37092,37093,37094,37095,37096,37097,37098,37099,37100,37101,37102,37103,37104,37105,37106,37107,37108,37109,37110,37111,37112,37113,37114,37115,37116,37117,37118,37119,37120,37122,37123,37124,37125,37126,37127,37128,37129,37130,37131",
         "Num": 105,
         "Lower": []
       },
       {
         "ObjKey": 35,
-        "Name": "Favorites",
+        "Name": "我的最爱",
         "Games": "37127",
         "Num": 1,
         "Lower": []
@@ -43,531 +43,531 @@
     "game_list": [
       {
         "GameType": "37002",
-        "AppName": "Irish Charms™",
-        "game_url": "/nj/forward_game.php?game_id=37002&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "爱尔兰的魅力",
+        "game_url": "/nj/forward_game.php?game_id=37002&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37003",
-        "AppName": "Diamonds are Forever 3 Lines",
-        "game_url": "/nj/forward_game.php?game_id=37003&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "永恒钻石 3线",
+        "game_url": "/nj/forward_game.php?game_id=37003&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37004",
-        "AppName": "888 Gold™",
-        "game_url": "/nj/forward_game.php?game_id=37004&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "富贵888",
+        "game_url": "/nj/forward_game.php?game_id=37004&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37009",
-        "AppName": "Queen of Atlantis™",
-        "game_url": "/nj/forward_game.php?game_id=37009&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "亚特兰蒂斯女王",
+        "game_url": "/nj/forward_game.php?game_id=37009&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37010",
-        "AppName": "Devil's 13",
-        "game_url": "/nj/forward_game.php?game_id=37010&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "恶魔 13",
+        "game_url": "/nj/forward_game.php?game_id=37010&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37011",
-        "AppName": "Lady of the Moon",
-        "game_url": "/nj/forward_game.php?game_id=37011&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "月之女神",
+        "game_url": "/nj/forward_game.php?game_id=37011&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37013",
-        "AppName": "Crazy 7s",
-        "game_url": "/nj/forward_game.php?game_id=37013&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "疯狂 7s",
+        "game_url": "/nj/forward_game.php?game_id=37013&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37015",
-        "AppName": "KTV",
-        "game_url": "/nj/forward_game.php?game_id=37015&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "歌厅",
+        "game_url": "/nj/forward_game.php?game_id=37015&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37017",
-        "AppName": "888 Dragons™",
-        "game_url": "/nj/forward_game.php?game_id=37017&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "发发发龙",
+        "game_url": "/nj/forward_game.php?game_id=37017&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37018",
-        "AppName": "Busy Bees",
-        "game_url": "/nj/forward_game.php?game_id=37018&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "勤劳蜜蜂",
+        "game_url": "/nj/forward_game.php?game_id=37018&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37019",
-        "AppName": "Dice and Fire",
-        "game_url": "/nj/forward_game.php?game_id=37019&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "烈焰骰子",
+        "game_url": "/nj/forward_game.php?game_id=37019&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37020",
-        "AppName": "Sugar Rush",
-        "game_url": "/nj/forward_game.php?game_id=37020&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "极速糖果",
+        "game_url": "/nj/forward_game.php?game_id=37020&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37021",
-        "AppName": "Sugar Rush Summer Time",
-        "game_url": "/nj/forward_game.php?game_id=37021&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "极速糖果夏日版",
+        "game_url": "/nj/forward_game.php?game_id=37021&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37022",
-        "AppName": "Sugar Rush Valentine's Day",
-        "game_url": "/nj/forward_game.php?game_id=37022&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "极速糖果情人版",
+        "game_url": "/nj/forward_game.php?game_id=37022&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37023",
-        "AppName": "Sugar Rush Winter",
-        "game_url": "/nj/forward_game.php?game_id=37023&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "极速糖果冬日版",
+        "game_url": "/nj/forward_game.php?game_id=37023&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37024",
-        "AppName": "Tales of Egypt",
-        "game_url": "/nj/forward_game.php?game_id=37024&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "埃及传说",
+        "game_url": "/nj/forward_game.php?game_id=37024&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37025",
-        "AppName": "8 Dragons™",
-        "game_url": "/nj/forward_game.php?game_id=37025&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "龙发",
+        "game_url": "/nj/forward_game.php?game_id=37025&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37026",
-        "AppName": "Spooky Fortune",
-        "game_url": "/nj/forward_game.php?game_id=37026&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "幽灵财富",
+        "game_url": "/nj/forward_game.php?game_id=37026&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37027",
-        "AppName": "Lady Godiva",
-        "game_url": "/nj/forward_game.php?game_id=37027&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "女神戈帝梵",
+        "game_url": "/nj/forward_game.php?game_id=37027&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37029",
-        "AppName": "Hockey League",
-        "game_url": "/nj/forward_game.php?game_id=37029&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "曲棍球联盟",
+        "game_url": "/nj/forward_game.php?game_id=37029&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37034",
-        "AppName": "Glorious Rome",
-        "game_url": "/nj/forward_game.php?game_id=37034&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "荣耀罗马",
+        "game_url": "/nj/forward_game.php?game_id=37034&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37035",
-        "AppName": "Religion of Champions Brasil",
-        "game_url": "/nj/forward_game.php?game_id=37035&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "冠军之战",
+        "game_url": "/nj/forward_game.php?game_id=37035&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37038",
-        "AppName": "Magic Crystals",
-        "game_url": "/nj/forward_game.php?game_id=37038&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "魔幻水晶",
+        "game_url": "/nj/forward_game.php?game_id=37038&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37041",
-        "AppName": "Dragon Kingdom",
-        "game_url": "/nj/forward_game.php?game_id=37041&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "龙之国度",
+        "game_url": "/nj/forward_game.php?game_id=37041&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37042",
-        "AppName": "Dwarven Gold",
-        "game_url": "/nj/forward_game.php?game_id=37042&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "爱人黄金25线",
+        "game_url": "/nj/forward_game.php?game_id=37042&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37043",
-        "AppName": "Dwarven Gold Deluxe",
-        "game_url": "/nj/forward_game.php?game_id=37043&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "矮人黄金",
+        "game_url": "/nj/forward_game.php?game_id=37043&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37045",
-        "AppName": "Fruity Blast",
-        "game_url": "/nj/forward_game.php?game_id=37045&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "水果爆破",
+        "game_url": "/nj/forward_game.php?game_id=37045&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37047",
-        "AppName": "Journey to the West",
-        "game_url": "/nj/forward_game.php?game_id=37047&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "西游记",
+        "game_url": "/nj/forward_game.php?game_id=37047&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37048",
-        "AppName": "3 Kingdoms - Battle of Red Cliffs",
-        "game_url": "/nj/forward_game.php?game_id=37048&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "三国",
+        "game_url": "/nj/forward_game.php?game_id=37048&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37050",
-        "AppName": "Panther Queen™",
-        "game_url": "/nj/forward_game.php?game_id=37050&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "黑豹女王",
+        "game_url": "/nj/forward_game.php?game_id=37050&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37051",
-        "AppName": "Queen of Gold™",
-        "game_url": "/nj/forward_game.php?game_id=37051&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "黄金女王",
+        "game_url": "/nj/forward_game.php?game_id=37051&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37052",
-        "AppName": "Romeo and Juliet",
-        "game_url": "/nj/forward_game.php?game_id=37052&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "罗密欧与朱丽叶",
+        "game_url": "/nj/forward_game.php?game_id=37052&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37053",
-        "AppName": "Hot Safari",
-        "game_url": "/nj/forward_game.php?game_id=37053&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "野生动物园",
+        "game_url": "/nj/forward_game.php?game_id=37053&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37055",
-        "AppName": "Great Reef",
-        "game_url": "/nj/forward_game.php?game_id=37055&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "大堡礁",
+        "game_url": "/nj/forward_game.php?game_id=37055&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37057",
-        "AppName": "Wolf Gold™",
-        "game_url": "/nj/forward_game.php?game_id=37057&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "野狼黄金",
+        "game_url": "/nj/forward_game.php?game_id=37057&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37058",
-        "AppName": "The Catfather Part II",
-        "game_url": "/nj/forward_game.php?game_id=37058&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "猫爸第二部分",
+        "game_url": "/nj/forward_game.php?game_id=37058&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37060",
-        "AppName": "Gold Train™",
-        "game_url": "/nj/forward_game.php?game_id=37060&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "黄金列车",
+        "game_url": "/nj/forward_game.php?game_id=37060&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37061",
-        "AppName": "Jurassic Giants™",
-        "game_url": "/nj/forward_game.php?game_id=37061&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "侏罗纪巨兽",
+        "game_url": "/nj/forward_game.php?game_id=37061&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37062",
-        "AppName": "Beowulf",
-        "game_url": "/nj/forward_game.php?game_id=37062&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "贝奥武夫",
+        "game_url": "/nj/forward_game.php?game_id=37062&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37063",
-        "AppName": "3 Genie Wishes",
-        "game_url": "/nj/forward_game.php?game_id=37063&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "3 个精灵愿望",
+        "game_url": "/nj/forward_game.php?game_id=37063&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37064",
-        "AppName": "Aladdin's Treasure",
-        "game_url": "/nj/forward_game.php?game_id=37064&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "阿拉丁宝藏",
+        "game_url": "/nj/forward_game.php?game_id=37064&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37065",
-        "AppName": "Lucky Dragons",
-        "game_url": "/nj/forward_game.php?game_id=37065&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "幸运威龙",
+        "game_url": "/nj/forward_game.php?game_id=37065&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37066",
-        "AppName": "Hercules Son of Zeus",
-        "game_url": "/nj/forward_game.php?game_id=37066&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "宙斯之子赫拉克勒斯",
+        "game_url": "/nj/forward_game.php?game_id=37066&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37067",
-        "AppName": "Mighty Kong",
-        "game_url": "/nj/forward_game.php?game_id=37067&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "无敌金刚",
+        "game_url": "/nj/forward_game.php?game_id=37067&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37068",
-        "AppName": "7 Monkeys",
-        "game_url": "/nj/forward_game.php?game_id=37068&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "7只猴子",
+        "game_url": "/nj/forward_game.php?game_id=37068&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37070",
-        "AppName": "The Catfather",
-        "game_url": "/nj/forward_game.php?game_id=37070&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "猫咪派对",
+        "game_url": "/nj/forward_game.php?game_id=37070&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37071",
-        "AppName": "Hockey League Wild Match",
-        "game_url": "/nj/forward_game.php?game_id=37071&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "狂野冰球赛",
+        "game_url": "/nj/forward_game.php?game_id=37071&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37073",
-        "AppName": "Pixie Wings™",
-        "game_url": "/nj/forward_game.php?game_id=37073&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "精灵翅膀",
+        "game_url": "/nj/forward_game.php?game_id=37073&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37074",
-        "AppName": "Wild Spells™",
-        "game_url": "/nj/forward_game.php?game_id=37074&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "法力无边",
+        "game_url": "/nj/forward_game.php?game_id=37074&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37075",
-        "AppName": "Caishen's Gold™",
-        "game_url": "/nj/forward_game.php?game_id=37075&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "财神黄金",
+        "game_url": "/nj/forward_game.php?game_id=37075&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37076",
         "AppName": "888 BBIN",
-        "game_url": "/nj/forward_game.php?game_id=37076&lang=<languageID>&html5=1&sid=<sessionID>"
+        "game_url": "/nj/forward_game.php?game_id=37076&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37077",
-        "AppName": "Vegas Nights",
-        "game_url": "/nj/forward_game.php?game_id=37077&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "維加斯之夜",
+        "game_url": "/nj/forward_game.php?game_id=37077&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37078",
-        "AppName": "Diamond Strike",
-        "game_url": "/nj/forward_game.php?game_id=37078&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "鑽石罷工",
+        "game_url": "/nj/forward_game.php?game_id=37078&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37079",
-        "AppName": "Money Roll",
-        "game_url": "/nj/forward_game.php?game_id=37079&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "财源滚滚",
+        "game_url": "/nj/forward_game.php?game_id=37079&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37080",
-        "AppName": "7 Piggies",
-        "game_url": "/nj/forward_game.php?game_id=37080&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "7 只小猪",
+        "game_url": "/nj/forward_game.php?game_id=37080&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37081",
-        "AppName": "Panda's Fortune",
-        "game_url": "/nj/forward_game.php?game_id=37081&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "熊貓財富",
+        "game_url": "/nj/forward_game.php?game_id=37081&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37082",
-        "AppName": "Santa",
-        "game_url": "/nj/forward_game.php?game_id=37082&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "圣诞老人",
+        "game_url": "/nj/forward_game.php?game_id=37082&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37083",
-        "AppName": "Fishing Bonanza",
-        "game_url": "/nj/forward_game.php?game_id=37083&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "幸运钓鱼",
+        "game_url": "/nj/forward_game.php?game_id=37083&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37084",
-        "AppName": "Transylmania",
-        "game_url": "/nj/forward_game.php?game_id=37084&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "吸血鬼复仇记",
+        "game_url": "/nj/forward_game.php?game_id=37084&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37085",
-        "AppName": "Forest Magic",
-        "game_url": "/nj/forward_game.php?game_id=37085&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "魔法森林",
+        "game_url": "/nj/forward_game.php?game_id=37085&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37086",
-        "AppName": "Orbital Mining",
-        "game_url": "/nj/forward_game.php?game_id=37086&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "星际矿业",
+        "game_url": "/nj/forward_game.php?game_id=37086&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37087",
-        "AppName": "Gold Rush",
-        "game_url": "/nj/forward_game.php?game_id=37087&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "淘金热",
+        "game_url": "/nj/forward_game.php?game_id=37087&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37088",
-        "AppName": "Monkey Madness",
-        "game_url": "/nj/forward_game.php?game_id=37088&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "猴子疯狂",
+        "game_url": "/nj/forward_game.php?game_id=37088&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37089",
-        "AppName": "Cowboy Cash",
-        "game_url": "/nj/forward_game.php?game_id=37089&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "牛仔现金",
+        "game_url": "/nj/forward_game.php?game_id=37089&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37090",
-        "AppName": "Raceday Riches",
-        "game_url": "/nj/forward_game.php?game_id=37090&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "一夜暴富",
+        "game_url": "/nj/forward_game.php?game_id=37090&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37091",
-        "AppName": "New Tales of Egypt",
-        "game_url": "/nj/forward_game.php?game_id=37091&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "新埃及传说",
+        "game_url": "/nj/forward_game.php?game_id=37091&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37092",
-        "AppName": "Liberty Spins",
-        "game_url": "/nj/forward_game.php?game_id=37092&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "自由旋转",
+        "game_url": "/nj/forward_game.php?game_id=37092&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37093",
-        "AppName": "Lucky New Year",
-        "game_url": "/nj/forward_game.php?game_id=37093&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "幸运新年",
+        "game_url": "/nj/forward_game.php?game_id=37093&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37094",
-        "AppName": "Triple Tigers",
-        "game_url": "/nj/forward_game.php?game_id=37094&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "三只老虎",
+        "game_url": "/nj/forward_game.php?game_id=37094&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37095",
-        "AppName": "Ancient Egypt",
-        "game_url": "/nj/forward_game.php?game_id=37095&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "古代埃及",
+        "game_url": "/nj/forward_game.php?game_id=37095&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37096",
-        "AppName": "Aztec Gems",
-        "game_url": "/nj/forward_game.php?game_id=37096&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "古时代宝石",
+        "game_url": "/nj/forward_game.php?game_id=37096&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37097",
-        "AppName": "Fire 88™",
-        "game_url": "/nj/forward_game.php?game_id=37097&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "88火",
+        "game_url": "/nj/forward_game.php?game_id=37097&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37098",
-        "AppName": "Chilli Heat",
-        "game_url": "/nj/forward_game.php?game_id=37098&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "火辣辣",
+        "game_url": "/nj/forward_game.php?game_id=37098&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37099",
-        "AppName": "Fairytale Fortune",
-        "game_url": "/nj/forward_game.php?game_id=37099&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "童话财富",
+        "game_url": "/nj/forward_game.php?game_id=37099&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37100",
-        "AppName": "Joker's Jewels",
-        "game_url": "/nj/forward_game.php?game_id=37100&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "小丑珠宝",
+        "game_url": "/nj/forward_game.php?game_id=37100&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37101",
-        "AppName": "Great Rhino",
-        "game_url": "/nj/forward_game.php?game_id=37101&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "巨大犀牛",
+        "game_url": "/nj/forward_game.php?game_id=37101&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37102",
-        "AppName": "The Champions™",
-        "game_url": "/nj/forward_game.php?game_id=37102&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "冠军杯™",
+        "game_url": "/nj/forward_game.php?game_id=37102&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37103",
-        "AppName": "5 Lions™",
-        "game_url": "/nj/forward_game.php?game_id=37103&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "5雄狮™",
+        "game_url": "/nj/forward_game.php?game_id=37103&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37104",
-        "AppName": "Asgard",
-        "game_url": "/nj/forward_game.php?game_id=37104&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "仙宫",
+        "game_url": "/nj/forward_game.php?game_id=37104&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37105",
-        "AppName": "Madame Destiny",
-        "game_url": "/nj/forward_game.php?game_id=37105&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "命运女士",
+        "game_url": "/nj/forward_game.php?game_id=37105&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37106",
-        "AppName": "Jade Butterfly",
-        "game_url": "/nj/forward_game.php?game_id=37106&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "玉蝴蝶",
+        "game_url": "/nj/forward_game.php?game_id=37106&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37107",
-        "AppName": "Leprechaun Song",
-        "game_url": "/nj/forward_game.php?game_id=37107&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "小妖之歌",
+        "game_url": "/nj/forward_game.php?game_id=37107&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37108",
-        "AppName": "Peking Luck",
-        "game_url": "/nj/forward_game.php?game_id=37108&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "好运北京",
+        "game_url": "/nj/forward_game.php?game_id=37108&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37109",
-        "AppName": "Da Vinci's Treasure",
-        "game_url": "/nj/forward_game.php?game_id=37109&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "达芬奇宝藏",
+        "game_url": "/nj/forward_game.php?game_id=37109&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37110",
-        "AppName": "Master Chen`s Fortune",
-        "game_url": "/nj/forward_game.php?game_id=37110&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "陈师傅的财富",
+        "game_url": "/nj/forward_game.php?game_id=37110&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37111",
-        "AppName": "Classical Spins",
-        "game_url": "/nj/forward_game.php?game_id=37111&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "经典的旋转",
+        "game_url": "/nj/forward_game.php?game_id=37111&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37112",
-        "AppName": "Nile Riches",
-        "game_url": "/nj/forward_game.php?game_id=37112&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "尼罗河宝藏",
+        "game_url": "/nj/forward_game.php?game_id=37112&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37113",
-        "AppName": "Mighty Vikings",
-        "game_url": "/nj/forward_game.php?game_id=37113&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "维京传奇",
+        "game_url": "/nj/forward_game.php?game_id=37113&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37114",
-        "AppName": "Witches Riches",
-        "game_url": "/nj/forward_game.php?game_id=37114&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "女巫的财富",
+        "game_url": "/nj/forward_game.php?game_id=37114&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37115",
-        "AppName": "Slotfellas",
-        "game_url": "/nj/forward_game.php?game_id=37115&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "老虎机好伙计",
+        "game_url": "/nj/forward_game.php?game_id=37115&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37116",
-        "AppName": "Santa`s Riches",
-        "game_url": "/nj/forward_game.php?game_id=37116&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "圣诞老人的财富",
+        "game_url": "/nj/forward_game.php?game_id=37116&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37117",
-        "AppName": "Tropical Luck",
-        "game_url": "/nj/forward_game.php?game_id=37117&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "热带幸运",
+        "game_url": "/nj/forward_game.php?game_id=37117&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37118",
-        "AppName": "Lucky Diamond",
-        "game_url": "/nj/forward_game.php?game_id=37118&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "幸运钻石",
+        "game_url": "/nj/forward_game.php?game_id=37118&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37119",
-        "AppName": "Graveyard Shift",
-        "game_url": "/nj/forward_game.php?game_id=37119&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "夜班工人",
+        "game_url": "/nj/forward_game.php?game_id=37119&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37120",
-        "AppName": "Vegas Magic",
-        "game_url": "/nj/forward_game.php?game_id=37120&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "魔力维加斯",
+        "game_url": "/nj/forward_game.php?game_id=37120&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37122",
-        "AppName": "Triple Dragons",
-        "game_url": "/nj/forward_game.php?game_id=37122&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "龙龙龙",
+        "game_url": "/nj/forward_game.php?game_id=37122&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37123",
-        "AppName": "Mustang Gold",
-        "game_url": "/nj/forward_game.php?game_id=37123&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "黄金野马",
+        "game_url": "/nj/forward_game.php?game_id=37123&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37124",
-        "AppName": "Leprechaun Carol",
-        "game_url": "/nj/forward_game.php?game_id=37124&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "小妖之歌圣诞版",
+        "game_url": "/nj/forward_game.php?game_id=37124&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37125",
-        "AppName": "Safari king",
-        "game_url": "/nj/forward_game.php?game_id=37125&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "狩猎之王",
+        "game_url": "/nj/forward_game.php?game_id=37125&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37126",
-        "AppName": "Treasure Horse",
-        "game_url": "/nj/forward_game.php?game_id=37126&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "马上有钱",
+        "game_url": "/nj/forward_game.php?game_id=37126&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37127",
-        "AppName": "Golden Pig",
-        "game_url": "/nj/forward_game.php?game_id=37127&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "招财福猪",
+        "game_url": "/nj/forward_game.php?game_id=37127&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37128",
-        "AppName": "Wild Gladiators",
-        "game_url": "/nj/forward_game.php?game_id=37128&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "狂野角斗士",
+        "game_url": "/nj/forward_game.php?game_id=37128&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37129",
-        "AppName": "Extra Juicy",
-        "game_url": "/nj/forward_game.php?game_id=37129&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "额外多汁",
+        "game_url": "/nj/forward_game.php?game_id=37129&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37130",
-        "AppName": "Egyptian Fortunes",
-        "game_url": "/nj/forward_game.php?game_id=37130&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "埃及宿命",
+        "game_url": "/nj/forward_game.php?game_id=37130&lang=<languageCode>&html5=1&sid=<sessionID>"
       },
       {
         "GameType": "37131",
-        "AppName": "The Dog House",
-        "game_url": "/nj/forward_game.php?game_id=37131&lang=<languageID>&html5=1&sid=<sessionID>"
+        "AppName": "汪汪之家",
+        "game_url": "/nj/forward_game.php?game_id=37131&lang=<languageCode>&html5=1&sid=<sessionID>"
       }
     ],
-    "trans_balance": "Dear member, please transfer credits to [PP Casino] to activate the functions. Thanks you!",
+    "trans_balance": "尊敬的客户您好，烦请进行额度转移至[PP电子] 以激活各项功能，谢谢您！",
     "img_size": "_phone",
     "event": {
       "type": ""
