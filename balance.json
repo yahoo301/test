@@ -1,0 +1,203 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "username": "wuhen",
+    "currency": "RMB",
+    "bb_balance": "0.40",
+    "balance": [
+      {
+        "name": "AG Live Balance",
+        "api": "/m/api/user/gameBalance/19",
+        "maintain": "N",
+        "code": 19,
+        "last": false
+      },
+      {
+        "name": "ALLBET Live Balance",
+        "api": "/m/api/user/gameBalance/22",
+        "maintain": "N",
+        "code": 22,
+        "last": false
+      },
+      {
+        "name": "OG Live Balance",
+        "api": "/m/api/user/gameBalance/24",
+        "maintain": "Y",
+        "code": 24,
+        "last": false
+      },
+      {
+        "name": "GD Live Balance",
+        "api": "/m/api/user/gameBalance/27",
+        "maintain": "N",
+        "code": 27,
+        "last": false
+      },
+      {
+        "name": "BG Live Balance",
+        "api": "/m/api/user/gameBalance/36",
+        "maintain": "N",
+        "code": 36,
+        "last": false
+      },
+      {
+        "name": "EVO Live Balance",
+        "api": "/m/api/user/gameBalance/47",
+        "maintain": "N",
+        "code": 47,
+        "last": false
+      },
+      {
+        "name": "eBET Live Balance",
+        "api": "/m/api/user/gameBalance/54",
+        "maintain": "N",
+        "code": 54,
+        "last": false
+      },
+      {
+        "name": "PT Casino Balance",
+        "api": "/m/api/user/gameBalance/20",
+        "maintain": "N",
+        "code": 20,
+        "last": false
+      },
+      {
+        "name": "MG Casino Balance",
+        "api": "/m/api/user/gameBalance/23",
+        "maintain": "N",
+        "code": 23,
+        "last": false
+      },
+      {
+        "name": "GNS Casino Balance",
+        "api": "/m/api/user/gameBalance/28",
+        "maintain": "N",
+        "code": 28,
+        "last": false
+      },
+      {
+        "name": "ISB Casino Balance",
+        "api": "/m/api/user/gameBalance/29",
+        "maintain": "N",
+        "code": 29,
+        "last": false
+      },
+      {
+        "name": "HB Casino Balance",
+        "api": "/m/api/user/gameBalance/32",
+        "maintain": "N",
+        "code": 32,
+        "last": false
+      },
+      {
+        "name": "PP Casino Balance",
+        "api": "/m/api/user/gameBalance/37",
+        "maintain": "N",
+        "code": 37,
+        "last": false
+      },
+      {
+        "name": "JDB Casino Balance",
+        "api": "/m/api/user/gameBalance/39",
+        "maintain": "N",
+        "code": 39,
+        "last": false
+      },
+      {
+        "name": "AG Casino Balance",
+        "api": "/m/api/user/gameBalance/40",
+        "maintain": "N",
+        "code": 40,
+        "last": false
+      },
+      {
+        "name": "MEGA Casino Balance",
+        "api": "/m/api/user/gameBalance/41",
+        "maintain": "N",
+        "code": 41,
+        "last": false
+      },
+      {
+        "name": "RT Casino Balance",
+        "api": "/m/api/user/gameBalance/42",
+        "maintain": "N",
+        "code": 42,
+        "last": false
+      },
+      {
+        "name": "SG Casino Balance",
+        "api": "/m/api/user/gameBalance/44",
+        "maintain": "N",
+        "code": 44,
+        "last": false
+      },
+      {
+        "name": "SW Casino Balance",
+        "api": "/m/api/user/gameBalance/46",
+        "maintain": "N",
+        "code": 46,
+        "last": false
+      },
+      {
+        "name": "BNG Casino Balance",
+        "api": "/m/api/user/gameBalance/48",
+        "maintain": "N",
+        "code": 48,
+        "last": false
+      },
+      {
+        "name": "WM Casino Balance",
+        "api": "/m/api/user/gameBalance/50",
+        "maintain": "N",
+        "code": 50,
+        "last": false
+      },
+      {
+        "name": "Gti Casino Balance",
+        "api": "/m/api/user/gameBalance/51",
+        "maintain": "N",
+        "code": 51,
+        "last": false
+      },
+      {
+        "name": "KA Casino Balance",
+        "api": "/m/api/user/gameBalance/53",
+        "maintain": "N",
+        "code": 53,
+        "last": false
+      },
+      {
+        "name": "AW Casino Balance",
+        "api": "/m/api/user/gameBalance/56",
+        "maintain": "N",
+        "code": 56,
+        "last": false
+      },
+      {
+        "name": "Sport betting Balance",
+        "api": "/m/api/user/gameBalance/4",
+        "maintain": "N",
+        "code": 4,
+        "last": false
+      },
+      {
+        "name": "VR Lottery Balance",
+        "api": "/m/api/user/gameBalance/45",
+        "maintain": "N",
+        "code": 45,
+        "last": false
+      },
+      {
+        "name": "KY Gaming Balance",
+        "api": "/m/api/user/gameBalance/49",
+        "maintain": "N",
+        "code": 49,
+        "last": false
+      }
+    ],
+    "is_payonline": "Y",
+    "hall_id": 3819999
+  }
+}
