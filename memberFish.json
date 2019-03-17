@@ -82,6 +82,12 @@
         "game_url": "https://www.180888.la/nj/forward_game.php?game_id=56001&sid=<sessionID>&lang=<languageCode>&html5=1",
         "AppName": "海王3_神兽传",
         "GameClass": "Aw"
+      },
+      {
+        "GameType": "39099",
+        "game_url": "https://www.180888.la/nj/forward_game.php?game_id=39099&sid=<sessionID>&lang=<languageCode>",
+        "AppName": "Five Dragons Fishing",
+        "GameClass": "Jdb"
       }
     ],
     "img_size": "_phone",
