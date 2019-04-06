@@ -1,0 +1,155 @@
+{
+  "status": "Y",
+  "message": "",
+  "code": "",
+  "data": {
+    "game_menu": [
+      {
+        "ObjKey": 2,
+        "Name": "热门",
+        "Games": "63019,63020,63006,63005,63003,63013,63002,63001,63007,63010,63009,63017,63015,63014,63011,63012,63018,63008,63004,63016",
+        "Num": 20,
+        "Lower": []
+      },
+      {
+        "ObjKey": 1,
+        "Name": "最新",
+        "Games": "63019,63020,63001,63002,63003,63004,63005,63006,63007,63008,63009,63010,63011,63012,63013,63014,63015,63016,63017,63018",
+        "Num": 20,
+        "Lower": []
+      },
+      {
+        "ObjKey": 84,
+        "Name": "全部",
+        "Games": "63019,63020,63001,63002,63003,63004,63005,63006,63007,63008,63009,63010,63011,63012,63013,63014,63015,63016,63017,63018",
+        "Num": 20,
+        "Lower": []
+      },
+      {
+        "ObjKey": 3,
+        "Name": "老虎机",
+        "Games": "63001,63002,63003,63004,63005,63006,63007,63008,63009,63010,63011,63012,63013,63014,63015,63016,63017,63018",
+        "Num": 18,
+        "Lower": []
+      },
+      {
+        "ObjKey": 85,
+        "Name": "特色游戏",
+        "Games": "63019,63020",
+        "Num": 2,
+        "Lower": []
+      },
+      {
+        "ObjKey": 35,
+        "Name": "我的最爱",
+        "Games": "",
+        "Num": 0,
+        "Lower": []
+      }
+    ],
+    "game_list": [
+      {
+        "GameType": "63001",
+        "AppName": "阿努比斯",
+        "game_url": "/nj/forward_game.php?game_id=63001&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63002",
+        "AppName": "齐天大圣",
+        "game_url": "/nj/forward_game.php?game_id=63002&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63003",
+        "AppName": "黄金之鹰",
+        "game_url": "/nj/forward_game.php?game_id=63003&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63004",
+        "AppName": "海神",
+        "game_url": "/nj/forward_game.php?game_id=63004&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63005",
+        "AppName": "草原之王",
+        "game_url": "/nj/forward_game.php?game_id=63005&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63006",
+        "AppName": "祥龙献瑞",
+        "game_url": "/nj/forward_game.php?game_id=63006&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63007",
+        "AppName": "摇钱树",
+        "game_url": "/nj/forward_game.php?game_id=63007&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63008",
+        "AppName": "加勒比海",
+        "game_url": "/nj/forward_game.php?game_id=63008&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63009",
+        "AppName": "弥勒佛",
+        "game_url": "/nj/forward_game.php?game_id=63009&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63010",
+        "AppName": "老虎发发发",
+        "game_url": "/nj/forward_game.php?game_id=63010&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63011",
+        "AppName": "闹花灯",
+        "game_url": "/nj/forward_game.php?game_id=63011&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63012",
+        "AppName": "银行大盗",
+        "game_url": "/nj/forward_game.php?game_id=63012&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63013",
+        "AppName": "花开富贵",
+        "game_url": "/nj/forward_game.php?game_id=63013&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63014",
+        "AppName": "迎春纳福",
+        "game_url": "/nj/forward_game.php?game_id=63014&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63015",
+        "AppName": "花木兰",
+        "game_url": "/nj/forward_game.php?game_id=63015&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63016",
+        "AppName": "延禧心计",
+        "game_url": "/nj/forward_game.php?game_id=63016&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63017",
+        "AppName": "大秘宝",
+        "game_url": "/nj/forward_game.php?game_id=63017&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63018",
+        "AppName": "大魔术师",
+        "game_url": "/nj/forward_game.php?game_id=63018&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63019",
+        "AppName": "糖果王国",
+        "game_url": "/nj/forward_game.php?game_id=63019&lang=<languageCode>&html5=1&sid=<sessionID>"
+      },
+      {
+        "GameType": "63020",
+        "AppName": "消除者联盟",
+        "game_url": "/nj/forward_game.php?game_id=63020&lang=<languageCode>&html5=1&sid=<sessionID>"
+      }
+    ],
+    "trans_balance": "尊敬的客户您好，烦请进行额度转移至[IN电子] 以激活各项功能，谢谢您！",
+    "is_login": "Y"
+  }
+}
