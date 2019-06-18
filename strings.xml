@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">微信 Tools</string>
+    <string name="accessibility_description">Accessibility service suite for 微信</string>
+    <string name="accessibility_label">微信 Tools</string>
+    <string name="accessibility_turn_on">打开无障碍服务</string>
+    <string name="start">开始</string>
+    <string name="save">保存</string>
+    <string name="setting">设置</string>
+    <string name="auto_chat_button">自动聊天</string>
+    <string name="auto_chat_amount">发送消息数量</string>
+    <string name="auto_chat_main_delay">等待发下一条信息时间范围（秒）</string>
+    <string name="auto_chat_delay">等待发信息时间范围（秒）</string>
+    <string name="auto_chat_to">至</string>
+    <string name="auto_chat_url_title">网址</string>
+    <string name="auto_chat_key_title">Key</string>
+    <string name="extract_button">提取微信详情</string>
+    <string name="extract_button_description">包装为Excel格式</string>
+    <string name="auto_like_button">自动按赞</string>
+    <string name="auto_like_amount">按赞数量</string>
+    <string name="auto_extract_button">自动提取</string>
+    <string name="auto_extract_button_description">包装为Excel格式</string>
+    <string name="auto_extract_total">总记录: %1$d</string>
+    <string name="auto_extract_path">最新的文件位置: %1$s</string>
+    <string name="auto_register_button">自动注册微信</string>
+</resources>

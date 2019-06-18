@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout
+        android:id="@+id/mainLL"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <Switch
+            android:id="@+id/autoExtractSwitch"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:checked="false"
+            android:textColor="@android:color/black"
+            android:text="@string/start"/>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="exportExcelAuto"
+            android:text="@string/auto_extract_button_description"/>
+
+    <TextView
+            android:id="@+id/openFileAuto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="@android:color/black"
+            android:onClick="openFileAuto"
+            android:visibility="gone"/>
+
+    <TextView
+            android:id="@+id/totalRecordsAuto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="@android:color/black"/>
+
+    <ListView
+            android:id="@+id/listViewAuto"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+</android.widget.LinearLayout>
